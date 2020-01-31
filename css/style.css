@@ -1,0 +1,185 @@
+
+// remove default margin & padding
+*{
+
+    margin: 0;
+    padding:0;     
+
+
+}
+
+
+body{
+
+
+
+    background-color:white;
+    
+    
+    font-family: 'Open Sans', sans-serif; 
+    
+
+
+}
+
+
+.container{
+
+    max-width: 100;
+
+    background-color:#A2A5B6;
+    
+    margin:0 auto;
+    padding: 20px;
+}
+
+header{
+
+
+
+}
+
+.profile-image{
+
+
+    width: 150px;
+    height:120;
+    border: 3px solid white;
+    border-radius: 50%;
+    float:left;
+}
+
+
+.header-bio{
+
+
+    float:left;
+    padding:30px:
+
+}
+
+h1,h2,h3,h4,h5,h6{
+
+    color:#11999;
+
+
+}
+
+
+.header-contact{
+
+    float: right;
+    padding: 30px;
+
+
+
+}
+
+
+.header-contact a{
+
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+
+
+}
+
+
+.header-contact a:hover{
+
+    text-decoration: underline;
+    color:red;
+
+
+}
+
+
+.div-clear{
+
+
+    clear:both;
+}
+
+
+
+hr{
+
+    border:solid black;
+    width:100%;
+    margin:20px auto;
+    border-bottom:none;
+
+}
+
+/*.........
+main start
+.........*/
+
+/*....................
+personal section start
+......................*/
+
+#personal-section{
+
+
+
+
+}
+
+.content{
+
+        margin:30px;
+
+
+}
+
+.left-div{
+    
+    width:30%;
+    float:left;
+
+
+}
+
+.right-div{
+
+    width:70%;
+    float:left;
+
+
+}
+
+.common-hr{
+
+    border:solid black 1px;
+    border-bottom: none;
+    width:100%;
+    margin:20px auto;
+}
+
+/*........
+footer
+.........*/
+
+.bootom-container{
+
+        background-color: black;
+        text-align: center;
+        padding:20px;
+}
+
+.bootom-container a{
+
+    color:white;
+    text-decoration: none;
+    margin:20px;
+}
+
+.bootom-container p{
+
+    color:white;
+   
+    margin-top:20px;
+}
+
